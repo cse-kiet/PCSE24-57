@@ -7,7 +7,7 @@
 # 2.Synopsis
 
 [Project-Synopsis-ujjwal yadav (1).pdf](https://github.com/user-attachments/files/15516487/Project-Synopsis-ujjwal.yadav.1.pdf)
-ynopsis
+
 
 # 3.Research Paper
 
